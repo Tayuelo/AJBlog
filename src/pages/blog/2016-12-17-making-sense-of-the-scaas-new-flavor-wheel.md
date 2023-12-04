@@ -32,9 +32,7 @@ Note the use of parentheses, it is meant to read the signal by calling its gette
 
 In order to change the value of a Writable Signal, you need to use its set function in this way:
 
-
-
-```
+```typescript
 age.set(20);
 
 console.log(age()); // 20
@@ -216,8 +214,6 @@ export class App {
  }
 }
 ```
-
-
 
 Note: effects are destroyed automatically when used inside a component, directive or service.
 
