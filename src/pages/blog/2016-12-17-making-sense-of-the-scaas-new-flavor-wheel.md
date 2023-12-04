@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+path: /angular-signals-for-beginners
 title: Angular Signals for Beginners
 date: 2023-12-04T16:47:27.733Z
 description: A new Angular feature that will improve our apps performance and
